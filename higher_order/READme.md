@@ -1,4 +1,4 @@
-### Build Flexible function
+c### Build Flexible function
     1. Build a flexible function `talkToUser` using `loop`.
     2. It should loop through an array of strings and perform certain actions based on the `promptType`.
 
